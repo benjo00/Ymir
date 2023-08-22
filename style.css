@@ -1,0 +1,155 @@
+
+
+.imagecontainer {
+  background-color: #1F2937;
+  
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+  justify-content: flex-end;
+  padding: 16px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    flex-direction: row;
+    
+    color: inherit;
+  }
+
+  .headerlogo {
+    margin-right: 1200px;
+
+    font-weight: bold;
+    
+  }
+  
+
+
+
+.body {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    margin-top: -25px;
+   inline-size: 300px;
+   margin-left: 200px;
+   padding-top: 100px;
+    
+}
+
+
+.bodycontainer {
+  background-color: #1F2937;
+}
+
+.link {
+    color: white;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.buttonone {
+  background-color: blue;
+  color: white;
+  border-radius: 15%;
+}
+
+.image {
+  margin-left: 650px;
+  position: relative;
+  position: -200px;
+  
+    width: 500px;
+    height: 200px;
+    margin-top: -200px;
+    
+  }
+  
+  
+  
+  
+
+/*below this is section two */
+
+.row {
+  
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ gap: 100px;
+ 
+ 
+
+}
+
+
+.textunder {
+  max-width: 200px;
+}
+  
+ 
+/*part three*/
+
+
+
+h2 {
+  text-align: center;
+}
+
+.thor {
+  background-color: #E5E7EB;
+  max-width: 1000px;
+  margin-left: auto;
+
+  margin-right: auto;
+  font-size: 60px;
+  padding: 100px;
+}
+
+.thorcontainer {
+  background-color: #E5E7EB;
+}
+
+/*four*/
+
+.blue {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+  margin-left: 500px;
+  margin-right: 500px;
+  color: white;
+  padding: 75px;
+  gap: 2px;
+  border-radius: 5%;
+  
+}
+
+.buttontwo {
+  background-color: blue;
+  color: white;
+  border-color: white;
+  border-radius: 15%;
+}
+
+/*four*/
+
+.copy {
+  background-color: #1F2937;
+  color: white;
+  margin-top: 100px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
